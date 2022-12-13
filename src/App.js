@@ -11,6 +11,7 @@ import EditEmployee from "./components/Employee/edit-Employee.components";
 import CreateEmployee from "./components/Employee/create-Employee.component";
 import EmployeeList from "./components/Employee/Employee-list.component";
 import Employeereport from "./components/Employee/Report";
+
 //Stock
 
 import EditStock from "./components/Stock/edit-Stock.component";
