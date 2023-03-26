@@ -108,7 +108,7 @@ function App() {
         <Route path = "/EmployeeSalary/" component = { EmployeeSalaryList }/> 
         <Route path = "/EmployeeSalary-Edit/:id" component = { EditEmployeeSalary }/>
         <Route path = "/EmployeeSalary-report/" component = { EmployeeSalaryreport }/>
-          </div > </Router>
+        </div > </Router>
     );
 }
 
